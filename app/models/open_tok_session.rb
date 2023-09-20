@@ -1,0 +1,2 @@
+class OpenTokSession < ApplicationRecord
+end
